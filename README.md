@@ -104,5 +104,5 @@ project_root/ ├── my_portfolio.csv # Candidate portfolio database ├─�
 - **Resource Management:** API cost optimization, Memory usage for vector operations.
 
 ## Best Feature:
-If you want to know the details of this project and behind the scenes you can interact with this project with Nithi Docs Assistant:
-[Nithi_Docs👍](https://hf.co/chat/assistant/66d5eefcf8fde83943155c44 "Get Over to assistant✌️")
+If you want to know the details of this project and behind the scenes you can interact with this project with Email_IO Assistant:
+[Email_io👍](https://hf.co/chat/assistant/672750072c4b702f7a21272f "Get Over to assistant✌️")
