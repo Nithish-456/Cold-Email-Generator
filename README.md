@@ -77,6 +77,10 @@ Run the `main.py` file present in the app folder (`app/main.py`) or run `Email_G
 
 **Output:** Automated, professionally crafted referral emails.
 
+## 📈 Results
+### Email
+![Email 1](img1.png)
+
 ## 📊 Data Flow:
 `Copy Job Opening URL → Vector Embedding → Semantic Analysis → Candidate Matching → Email Generation`
 
@@ -98,3 +102,7 @@ project_root/ ├── my_portfolio.csv # Candidate portfolio database ├─�
 ## ⚠️ Key Project Challenges:
 - **Data Quality:** Inconsistent portfolio formats, Accuracy of skill matching.
 - **Resource Management:** API cost optimization, Memory usage for vector operations.
+
+## Best Feature:
+If you want to know the details of this project and behind the scenes you can interact with this project with Nithi Docs Assistant:
+[Nithi_Docs👍](https://hf.co/chat/assistant/66d5eefcf8fde83943155c44 "Get Over to assistant✌️")
