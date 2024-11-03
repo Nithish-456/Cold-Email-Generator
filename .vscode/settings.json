@@ -1,0 +1,6 @@
+{
+    "taipyStudio.gUI.elementsFilePaths": [],
+    "python.analysis.extraPaths": [
+        "./app/resource"
+    ]
+}
